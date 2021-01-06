@@ -3,6 +3,7 @@ export default () => {
     <section id=" servicios">
             <div class="servicios">
                 <h2>Servicios</h2>
+                <p><em><strong> $200 la noche </strong> </em></p>
                 <div class="col serv-items">
                     <div class="col offset serv-item">
                         <h6>Alojamiento </h6>
@@ -56,6 +57,7 @@ export default () => {
 
                     </div>
                 </div>
+                <p>*También puedes donar utiles escolares para los niños de Nueva Esperanza</p>
             </div>
         </section>
     `
