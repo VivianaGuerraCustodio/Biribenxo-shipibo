@@ -26,7 +26,7 @@ export default () => {
             y la ciudad se encuentra a 3 horas en caminata .
             <br>
             La maloca esta contruida en palo perfume ( que al mismo tiempo sirve como medicina para la limpieza del cuerpo ) .
-            Está ubicaa en el KM 22+100 caserío interior Nueva Esperanza a 5km de la carretera Iquitos Nauta .
+            Está ubicada en el KM 22+100 caserío interior Nueva Esperanza a 5km de la carretera Iquitos Nauta .
             Se recoge desde el aeropuerto ( aprox. 2 horas ).
             </p>
         </div>
