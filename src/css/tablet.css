@@ -1,0 +1,17 @@
+.serv-items {
+    display: flex;
+    flex-direction: row;
+}
+
+.sobre-nosotros {
+    width: 600px;
+}
+
+#carouselExampleFade {
+    width:70%;
+    margin: auto;
+}
+.custom-flex{
+    display: flex;
+    flex-direction: row;
+}
